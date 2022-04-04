@@ -1,0 +1,15 @@
+book
+n
+quyen sach
+phone
+n
+dien thoai
+play
+v
+choi
+sky
+n
+bau troi
+swimming
+v
+boi
